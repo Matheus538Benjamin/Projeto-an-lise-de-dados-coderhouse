@@ -241,4 +241,8 @@ Você verá os dados sendo carregados, tratados e salvos automaticamente.
 ## 👤 Autor
 
 **Matheus Benjamin Aquino Silva**  
+<<<<<<< HEAD
 🔗 [github.com/Matheus538Benjamin](https://github.com/Matheus538Benjamin)
+=======
+🔗 [github.com/Matheus538Benjamin](https://github.com/Matheus538Benjamin)
+>>>>>>> 8535205 (Adiciona notebook inicial e README do Projeto Coderhouse)
